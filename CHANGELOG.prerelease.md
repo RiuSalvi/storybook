@@ -1,3 +1,7 @@
+## 8.1.0-alpha.9
+
+- React: Support v19 betas in peer dependencies - [#26960](https://github.com/storybookjs/storybook/pull/26960), thanks @JReinhold!
+
 ## 8.1.0-alpha.8
 
 - Addon-actions: Fix falsy args printing as object - 22163 - [#26917](https://github.com/storybookjs/storybook/pull/26917), thanks @Fatcat560!
